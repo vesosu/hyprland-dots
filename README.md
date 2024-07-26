@@ -49,6 +49,8 @@ Theme is **text** *by* **darkthemer** with RosePine setting.
 # Setup and Customization
 ***You need a nerd font installed for almost all of them to work properly.***
 
+Use **_swww wallpaper_** to set supported file formats (such as .gif .png .jpg) as your desired wallpaper.
+
 You can search up how to setup [**pywal**](https://github.com/dylanaraps/pywal) and set your theme to your liking on waybar and terminal. You can also use my zsh config to **_automatically_** set **_terminal colors_** to **wal color** palette.
 
 If you wanna use **your wal color** palette on other **GTK apps** just use **_Oomox and nwg-look_** to create your own GTK theme and apply it. You can also use [Pywalfox](https://addons.mozilla.org/en-US/firefox/addon/pywalfox/) to apply your colors on **FireFox**.
