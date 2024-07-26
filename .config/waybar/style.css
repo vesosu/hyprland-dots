@@ -1,0 +1,70 @@
+@import url('../../.cache/wal/colors-waybar.css');
+window#waybar {
+    font-family: "MartianMono Nerd Font Mono";
+    color: rgba(225,225,225,1);
+    background-color: rgba(0,0,0,0);
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+}
+
+.modules-left, .modules-center {
+    opacity: 1;
+    background: linear-gradient(45deg, rgba(0,0,0,0.5) 30% ,rgba(0, 0, 0,0.5) 60%);
+    border-radius: 0.5rem;
+    padding: 2px;
+}
+
+.modules-right {
+    opacity: 1;
+    background-color: @background;
+    border-radius: 0.5rem;
+    padding: 2px 2px 2px 10px
+}
+
+/* label.module {
+ *   margin-left: -1px;
+ } * */
+
+#workspaces {
+background-color: @background;
+border-radius: 0.5rem;
+padding: 0 2px;
+}
+
+#workspaces button {
+color: @foreground;
+font-size: 1.2rem;
+padding: 0 0.3rem 0 0;
+}
+
+#window {
+background-color: @background;
+border-radius: 0.5rem;
+padding: 2px 5px;
+}
+
+#clock {
+font-weight: bolder;
+border-radius: 0.5rem;
+padding: 0 3px 0 0;
+}
+
+#battery {
+color: lightgreen;
+}
+
+#memory {
+color: @color4;
+}
+
+#disk {
+color: @color5;
+}
+
+#cpu {
+color: @color6;
+}
+
+#temperature {
+color: lightslategray;
+}
