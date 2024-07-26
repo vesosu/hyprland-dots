@@ -37,11 +37,11 @@ Just **_drag_** my files **_into your config directory_** and enjoy.
 ![2024-07-27-005049_hyprshot](https://github.com/user-attachments/assets/5294c897-1c91-43f4-993d-6e712d423a3f)
 **Neofetch**
 ![2024-07-27-000309_hyprshot](https://github.com/user-attachments/assets/352665b7-e2a7-4a8d-ac1f-f084d4b7d641)
-**File manager and vscodium**
+**File Manager and VSCodium**
 ![2024-07-27-000514_hyprshot](https://github.com/user-attachments/assets/6f5c07a4-fdb8-4ed3-bee8-fa222fa90817)
-**Dunst notifications**
+**Dunst Notifications**
 ![2024-07-27-003127_hyprshot](https://github.com/user-attachments/assets/2374b49a-ae65-4b97-ac64-fdf5a99d25a6)
-**Spotify**
+**Spotify with Spicetify**
 ![2024-07-27-001659_hyprshot](https://github.com/user-attachments/assets/0d9d6280-4fb6-4b57-ad68-3ecf70e9d81b)
 
 Theme is **text** *by* **darkthemer** with RosePine setting.
@@ -59,4 +59,4 @@ For **VSCodium** colors just use pywal extension and activate it.
 
 You need to **_install a emoji pack_** if you want to use **wofi-emoji**. You will also need some **_icon packs_** if you want to use **waybar** with my config. You can easily find them anywhere.
 
-**Feel free edit other config files to your liking and enjoy it!**
+**Feel free to edit any other config files to your liking and enjoy it!**
