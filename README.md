@@ -36,7 +36,7 @@ Just **_drag_** my files **_into your config directory_** and enjoy.
 #### Wofi-emoji
 ![2024-07-27-001511_hyprshot](https://github.com/user-attachments/assets/882c4042-c69f-4555-8e33-f7bfa2a14127)
 #### Clipboard Manager
-![2024-07-27-004818_hyprshot](https://github.com/user-attachments/assets/2402e44e-8b50-45f2-bb00-a68ca2705f87)
+![2024-07-27-172438_hyprshot](https://github.com/user-attachments/assets/60474397-22cd-4b34-ab1f-5d5234ca53bc)
 #### Terminal Colors
 ![2024-07-27-005236_hyprshot](https://github.com/user-attachments/assets/ef8fb859-b325-4f3d-9762-27162c825537)
 #### Wallpaper
