@@ -47,7 +47,8 @@ Just **_drag_** my files **_into your config directory_** and enjoy.
 Theme is **text** *by* **darkthemer** with RosePine setting.
 
 # Setup and Customization
-***You need a nerd font installed for almost all of them to work properly.***
+> [!IMPORTANT]
+> You need a nerd font installed for almost all of them to work properly.
 
 Use **_swww wallpaper_** to set supported file formats (such as .gif .png .jpg) as your desired wallpaper.
 
