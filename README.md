@@ -14,29 +14,21 @@
   3. [Setup and Customization](README.md#setup-and-customization)
   >[!NOTE]
   >Configs files are not entirely mine, copied from other peoples and set to my likings. You can find some of the authors by reading config files.
+  
+  >[!WARNING]
+  >Read all of the table contents for a flawless installation.
 ## Installation and Apps
 Just **_drag_** my files **_into your config directory_** and enjoy. 
-
-**Terminal** • [kitty](https://github.com/kovidgoyal/kitty) with [starship](https://starship.rs/) and [zsh](https://www.zsh.org/) shell
-
-**File Manager** • [Thunar](https://github.com/xfce-mirror/thunar)
-
-**Text/Code Editor** • [VSCodium](https://vscodium.com/)
-
-**Color Palette/Theme** • [Pywal](https://github.com/dylanaraps/pywal) wallpaper color palette
-
-**Topbar** • [waybar](https://github.com/Alexays/Waybar)
-
-**App Launcher** • [rofi](https://github.com/davatorium/rofi)
-
-**Emoji Picker** • [wofi-emoji](https://github.com/dln/wofi-emoji)
-
-**Wallpaper Engine** • [swww](https://github.com/LGFae/swww)
-
-**Notification Daemon** • [dunst](https://github.com/dunst-project/dunst)
-
-**Clipboard Manager** • [clipse](https://github.com/savedra1/clipse)
-
+- **Terminal** • [kitty](https://github.com/kovidgoyal/kitty) with [starship](https://starship.rs/) and [zsh](https://www.zsh.org/) shell
+- **File Manager** • [Thunar](https://github.com/xfce-mirror/thunar)
+- **Text/Code Editor** • [VSCodium](https://vscodium.com/)
+- **Color Palette/Theme** • [Pywal](https://github.com/dylanaraps/pywal) wallpaper color palette
+- **Topbar** • [waybar](https://github.com/Alexays/Waybar)
+- **App Launcher** • [rofi](https://github.com/davatorium/rofi)
+- **Emoji Picker** • [wofi-emoji](https://github.com/dln/wofi-emoji)
+- **Wallpaper Engine** • [swww](https://github.com/LGFae/swww)
+- **Notification Daemon** • [dunst](https://github.com/dunst-project/dunst)
+- **Clipboard Manager** • [clipse](https://github.com/savedra1/clipse)
 ## Quick View
 
 #### Rofi
